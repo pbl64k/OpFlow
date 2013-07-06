@@ -1,0 +1,8 @@
+OpFlow is a simple process simulator written in Python, intended to assist
+with operations management research. It consists of an event-driven
+simulation engine managing event flow through a priority queue, and a number
+of classes for easy creation of work unit, processing units, queueing and
+distribution mechanisms.
+
+A number of simple process examples are supplied demonstrating basic use of
+the engine to organize processes and collect simulation stats.
